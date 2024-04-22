@@ -1,0 +1,16 @@
+site_name: sxmp-api-todolist
+site_description: 'Main documentation for sxmp-api-todolist project'
+repo_url: https://github.com/xgeekshq/sxmp-api-todolist.git
+edit_uri: edit/master/docs
+
+# plugins:
+#   - techdocs-core
+
+# For sidebar navigation
+nav:
+  - index.md
+  - Overview:
+      - What is sxmp-api-todolist?: 'overview/what-is-sxmp-api-todolist.md'
+      - Project Roadmap: 'overview/roadmap.md'
+  - Getting Started:
+      - Getting Started: 'index.md'
